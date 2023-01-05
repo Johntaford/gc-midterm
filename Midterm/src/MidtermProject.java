@@ -6,6 +6,7 @@ public class MidtermProject {
 
 		
 		String test = "Hello Ford was here!";
+		String test = "Hello Noah was here!";
 	}
 
 }
